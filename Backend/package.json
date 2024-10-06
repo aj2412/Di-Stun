@@ -1,0 +1,28 @@
+{
+  "name": "distun",
+  "version": "1.0.0",
+  "description": "book store backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aj2412/Di-Stun.git"
+  },
+  "author": "Arjit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aj2412/Di-Stun/issues"
+  },
+  "homepage": "https://github.com/aj2412/Di-Stun#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3",
+    "nodemon": "^3.1.7"
+  }
+}
