@@ -8,15 +8,15 @@ function Banner() {
   }
   return (
     <>
-      <div className=" max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-5">
+      <div className=" max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-5 ">
         <div className="w-full text-black order-2 md:order-1 md:w-1/2 mt-12 md:mt-36">
           <div className="space-y-8">
             <h1 className="text-2xl dark:text-orange-400  md:text-4xl font-bold">
               Welcome to{" "}
-              <span className="text-orange-400 dark:text-orange-950">UNLIMITED DIGITAL STORIES </span>
+              <span className="text-orange-400 dark:text-orange-700">UNLIMITED DIGITAL STORIES </span>
               – Where Minds Meet Souls!
             </h1>
-            <p className="text-sm md:text-xl">
+            <p className="text-sm md:text-xl dark:text-white">
             A space where creativity and imagination come to life. Explore captivating narratives that bridge the mind and soul, offering endless inspiration. Join us in a journey where every story ignites a deeper connection.
             </p>
             <label className="input input-bordered bg-orange-950 flex items-center gap-2">
