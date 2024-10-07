@@ -72,7 +72,7 @@ function Freebook() {
   return (
     <>
       <div className=" max-w-screen-2xl text-white container mx-auto md:px-20 px-4">
-        <div className="text-black">
+        <div className="text-black dark:text-white">
           <h1 className="font-semibold text-2xl pb-2">Free Offered Courses</h1>
           <p>
           Explore our diverse range of free courses designed to enhance your skills and knowledge across various subjects. Enroll today and take the first step towards achieving your educational goals at no cost!

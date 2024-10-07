@@ -7,7 +7,7 @@ import Footer from "../components/Footer";
 function Home() {
   return (
     <>
-    <div className="bg-white dark:bg-slate-300">
+    <div className="bg-white dark:bg-slate-950 dark:text-white">
       <Navbar />
       <Banner />
       <Freebook />
