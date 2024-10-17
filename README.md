@@ -1,4 +1,4 @@
-**Di-Stun - Unlimited Digital Stories** 📚✨
+# Di-Stun - Unlimited Digital Stories 📚✨
 
 Welcome to Di-Stun, your digital gateway to an unlimited collection of books! This MERN stack project allows users to seamlessly browse, purchase, and read digital stories from a wide range of genres. Dive into the world of digital storytelling with an intuitive interface and powerful backend architecture.
 
@@ -6,11 +6,11 @@ Welcome to Di-Stun, your digital gateway to an unlimited collection of books! Th
 <img width="1425" alt="Screenshot 2024-10-17 at 19 46 55" src="https://github.com/user-attachments/assets/cfc7d475-55e0-4d9d-ba4a-29b0345520a7">
 
 
-**About the Project** 📚
+# About the Project 📚
 
 Di-Stun is an online bookstore platform built with the MERN stack that allows users to browse, explore, and purchase digital books. The platform is designed to be responsive, user-friendly, and efficient, ensuring a smooth experience for users across devices.
 
-**Features** 🚀
+# Features 🚀
 
 Explore Digital Stories: Browse through different categories and genres.
 Responsive UI: A seamless experience across mobile, tablet, and desktop.
@@ -19,7 +19,7 @@ User Profiles & Purchase History: Keep track of your books.
 Intuitive Search Functionality: Find books easily through categories, titles, or authors.
 
 
-**Tech Stack** 💻
+# Tech Stack 💻
 
 Frontend: React
 Backend: Node.js, Express.js
@@ -28,7 +28,7 @@ Version Control: Git, GitHub
 Hosting: Not done yet.
 
 
-**Prerequisites** 🛠️
+# Prerequisites 🛠️
 
 Make sure you have the following installed:
 
@@ -36,18 +36,18 @@ Node.js (v14 or higher)
 MongoDB (running locally or via cloud)
 
 
-**Clone the Repository**
+# Clone the Repository
 git clone https://github.com/aj2412/di-stun.git
 cd di-stun
 
 
-**Install Dependencies**
+# Install Dependencies
 npm install
 cd client
 npm install
 
 
-**Setting Up the Environment Variables**
+# Setting Up the Environment Variables
 
 Create a .env file in the root directory and add your MongoDB URI and any other secrets:
 
@@ -55,7 +55,7 @@ MONGO_URI=your_mongodb_connection_string
 PORT=5000
 
 
-**Running the Application**
+# Running the Application
 # Run the backend (Node.js server)
 npm start
 
