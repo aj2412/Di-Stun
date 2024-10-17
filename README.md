@@ -1,4 +1,4 @@
-<img width="1408" alt="Screenshot 2024-10-17 at 19 44 49" src="https://github.com/user-attachments/assets/95f38efd-d911-41fa-aaa1-ce9180377cc9">**Di-Stun - Unlimited Digital Stories** 📚✨
+**Di-Stun - Unlimited Digital Stories** 📚✨
 
 Welcome to Di-Stun, your digital gateway to an unlimited collection of books! This MERN stack project allows users to seamlessly browse, purchase, and read digital stories from a wide range of genres. Dive into the world of digital storytelling with an intuitive interface and powerful backend architecture.
 
