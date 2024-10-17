@@ -56,21 +56,13 @@ PORT=5000
 
 
 # Running the Application
-# Run the backend (Node.js server)
+**Run the backend (Node.js server)**
 npm start
 
-# Run the frontend (React app)
+**Run the frontend (React app)**
 npm run dev
 
-**Usage** 🎮
-
-Browse the collection of digital stories.
-Search for books by title, author, or genre.
-Add books to your cart and complete the purchase.
-Enjoy reading in a smooth, responsive interface!
-
-
-**Screenshots** 📸
+# Screenshots 📸
 
 <img width="1425" alt="Screenshot 2024-10-17 at 19 41 47" src="https://github.com/user-attachments/assets/872538e3-a665-4678-8ebe-fda7b0cf16aa">
 
@@ -80,18 +72,18 @@ The interactive homepage where users can browse through digital books.
 
 Detailed view of avaialble books that are fetched directly from database using API.
 
-**Contributing** 🤝
+# Contributing 🤝
 
 We welcome contributions to make Di-Stun even better! Feel free to open an issue or submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-**Fork the repository:**
+# Fork the repository:
 
 Create your feature branch (git checkout -b feature/AmazingFeature)
 Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 Open a pull request
 
-**Contact** 📬
+# Contact 📬
 
 Arjit Kumar Singh
 Email: 2412arjitchauhan@gmail.com
